@@ -2,7 +2,8 @@
 
 This project implements a *Byzantine Fault Tolerant (BFT) ordered consensus mechanism* based on Pompe, ensuring that transaction ordering remains fair even in the presence of Byzantine nodes.  
 
-🔹Overview
+🔹Overview:
+
 Pompe is a Byzantine ordered consensus protocol that prevents a **Byzantine oligarchy**, ensuring that no small group of malicious nodes can control the transaction ordering. This implementation simulates the protocol with **honest and Byzantine replicas.  
 
 🛠 How It Works
